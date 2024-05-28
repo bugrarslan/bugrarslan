@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bugrarslan" alt="bugrarslan" /></a> </p>
 
-- 🔭 I’m currently working on [movieApp](https://github.com/bugrarslan/movieApp)
+- 🔭 I’m currently working on [foodRecipeApp](https://github.com/bugrarslan/foodRecipeApp)
 
 - 🌱 I’m currently learning **React Native, .Net Core**
 
