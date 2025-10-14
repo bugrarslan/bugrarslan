@@ -1,6 +1,6 @@
 
 # 👋 About Me:
-👨🏻‍💻 I’m a react native developer.<br>🏫 I’m a student at Nevsehir University. (Computer Engineering)
+👨🏻‍💻 I’m a react native developer.
 
 
 ## 🌐 Socials:
